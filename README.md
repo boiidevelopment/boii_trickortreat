@@ -34,5 +34,5 @@ None, script is entirely standalone.
 - You could also just live start the resource by pressing F8 and typing `refresh; ensure boii_trickortreat`
 
 ### PREVIEW
-https://www.youtube.com/watch?v=CH6l1dMKGmw
+[https://www.youtube.com/watch?v=CH6l1dMKGmw](https://www.youtube.com/watch?v=5-Noz3XIIDg)
 
