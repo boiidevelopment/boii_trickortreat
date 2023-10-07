@@ -4,15 +4,6 @@
 
 config = config or {}
 
--- Debug
-config.debug = false -- Toggle script debug mode. True will show debug prints. False will disable these.
-
--- Resource settings
-config.resource_settings = {
-    framework = 'boii_base', -- Choose your framework here. Available options; 'boii_base', 'qb-core', 'ox_core', 'esx_legacy', 'custom'
-    notifications = 'boii_ui', -- Choose your notifications here. Available options; 'boii_ui' -- additional options will be added 
-}
-
 -- Logic settings
 config.logic = {
     chances = {
