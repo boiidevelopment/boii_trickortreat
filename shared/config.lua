@@ -7,8 +7,8 @@ config = config or {}
 -- Logic settings
 config.logic = {
     chances = {
-        ['trick'] = 90,
-        ['treat'] = 10
+        ['trick'] = 49,
+        ['treat'] = 51
     },
     tricks = {
         ['set_on_fire'] = {
