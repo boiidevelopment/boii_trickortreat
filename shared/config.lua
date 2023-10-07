@@ -21,14 +21,14 @@ config.logic = {
     },
     tricks = {
         ['set_on_fire'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'set_player_on_fire'
             },
         },
         ['set_as_drunk'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'set_as_drunk'
@@ -39,7 +39,7 @@ config.logic = {
             }
         },
         ['rain_chickens'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'rain_chickens'
@@ -50,7 +50,7 @@ config.logic = {
             }
         },
         ['random_angry_ped'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'random_angry_ped'
@@ -65,7 +65,7 @@ config.logic = {
             }
         },
         ['random_teleport'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'random_teleport'
@@ -97,7 +97,7 @@ config.logic = {
     },
     treats = {
         ['super_speed'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'super_speed'
@@ -108,7 +108,7 @@ config.logic = {
             }
         },
         ['super_jump'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'super_jump'
@@ -118,7 +118,7 @@ config.logic = {
             }
         },
         ['super_strength'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'super_strength'
@@ -129,7 +129,7 @@ config.logic = {
             }
         },
         ['invisibility'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'invisibility'
@@ -139,7 +139,7 @@ config.logic = {
             }
         },
         ['invincibility'] = {
-            ['enabled'] = false,
+            ['enabled'] = true,
             ['action'] = {
                 ['type'] = 'function',
                 ['execute'] = 'invincibility'
